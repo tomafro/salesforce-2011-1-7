@@ -1,0 +1,24 @@
+body {
+  font: 18px "ff-dagny-web-pro-1", "ff-dagny-web-pro-2";
+}
+
+h1, h2, h3, h4, .bullets ul li {
+  font-family: "adelle-1","adelle-2";
+} 
+
+h1 {
+  font-size: 4.2em;
+}
+
+pre {
+  font: 1em Monaco, monospace;
+}
+
+.bullets ul li {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.sh_xml, .sh_java {
+  font-size: 0.8em;
+}
